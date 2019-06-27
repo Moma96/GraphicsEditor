@@ -1,0 +1,4 @@
+java.awt.Color[r=255,g=255,b=255]
+RECTANGLE: 209.0 279.0 289.0 116.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=124,g=0,b=0]
+RECTANGLE: 377.0 176.0 318.0 343.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=124,g=0,b=0]
+RECTANGLE: 525.0 59.0 375.0 534.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=124,g=0,b=0]

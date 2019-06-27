@@ -1,0 +1,4 @@
+java.awt.Color[r=255,g=255,b=255]
+RECTANGLE: 280.0 137.0 408.0 325.0 2 java.awt.Color[r=0,g=0,b=0] null
+RECTANGLE: 428.0 111.0 360.0 197.0 2 java.awt.Color[r=0,g=0,b=0] null
+PATH: 129.0 138.0 501.0 65.0 213.0 426.0 706.0 308.0 802.0 449.0 606.0 198.0 644.0 109.0 2 java.awt.Color[r=0,g=0,b=0]

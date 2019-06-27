@@ -1,0 +1,18 @@
+java.awt.Color[r=192,g=192,b=192]
+RECTANGLE: 480.0 249.0 18.0 65.0 2 java.awt.Color[r=0,g=0,b=0] null
+RECTANGLE: 743.0 282.0 23.0 164.0 2 java.awt.Color[r=0,g=0,b=0] null
+RECTANGLE: 472.0 137.0 414.0 28.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=124,g=0,b=0]
+RECTANGLE: 412.0 116.0 222.0 38.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=0,g=0,b=255]
+RECTANGLE: 265.0 126.0 10.0 130.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=0,g=0,b=0]
+RECTANGLE: 127.0 99.0 119.0 18.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=64,g=64,b=64]
+RECTANGLE: 142.0 333.0 279.0 12.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=0,g=124,b=0]
+RECTANGLE: 207.0 344.0 30.0 148.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=255,g=0,b=255]
+RECTANGLE: 336.0 416.0 43.0 146.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=128,g=128,b=128]
+RECTANGLE: 445.0 557.0 161.0 3.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=64,g=64,b=64]
+RECTANGLE: 463.0 648.0 202.0 3.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=0,g=178,b=178]
+RECTANGLE: 643.0 198.0 439.0 299.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=255,g=0,b=0]
+RECTANGLE: 801.0 72.0 354.0 109.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=64,g=64,b=64]
+POLYGON: 682.0 99.0 911.0 139.0 568.0 411.0 460.0 473.0 1081.0 416.0 745.0 343.0 2 java.awt.Color[r=192,g=192,b=192] java.awt.Color[r=124,g=0,b=0]
+RECTANGLE: 360.0 253.0 300.0 256.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=124,g=0,b=124]
+RECTANGLE: 336.0 347.0 450.0 46.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=255,g=0,b=255]
+RECTANGLE: 749.0 76.0 332.0 218.0 2 java.awt.Color[r=0,g=0,b=0] java.awt.Color[r=255,g=200,b=0]

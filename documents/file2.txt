@@ -1,0 +1,7 @@
+java.awt.Color[r=255,g=255,b=255]
+RECTANGLE: 337.0 172.0 377.0 381.0 2 java.awt.Color[r=0,g=0,b=0] null
+RECTANGLE: 131.0 261.0 299.0 250.0 2 java.awt.Color[r=0,g=0,b=0] null
+RECTANGLE: 436.0 126.0 348.0 182.0 2 java.awt.Color[r=0,g=0,b=0] null
+LINE: 228.0 220.0 798.0 191.0 2 java.awt.Color[r=0,g=0,b=0]
+LINE: 792.0 115.0 571.0 377.0 2 java.awt.Color[r=0,g=0,b=0]
+POLYGON: 208.0 142.0 591.0 65.0 257.0 487.0 840.0 496.0 907.0 232.0 275.0 225.0 513.0 33.0 2 java.awt.Color[r=0,g=0,b=0] null
